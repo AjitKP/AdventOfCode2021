@@ -1,9 +1,9 @@
 # AdventOfCode2021
-AdventOfCode 2021
+
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language of your choice. Find more info @ https://adventofcode.com/2021/about
 
-This repository contains solution for AdventOfCode year-2021 (https://adventofcode.com/2021) in node js programming language.
+This repository contains solution for AdventOfCode year-2021 (https://adventofcode.com/2021) in <b>Node JS</b> programming language.
 
 # Step by Step guide to Clone and Run the code locally:
 
