@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "AdventOfCode",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "watch":"nodemon index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "AdventOfCode"
+  ],
+  "author": "Ajit K Panda [ajit.889@gmail.com/ajit.kumar.panda@sap.com]",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
