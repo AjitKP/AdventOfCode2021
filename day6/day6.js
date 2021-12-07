@@ -14,7 +14,6 @@ module.exports = class day6 {
             index = fishTimerCount.findIndex(fishTimer=>fishTimer.timer === timerValue)
             index != -1? fishTimerCount[index].count += 1: fishTimerCount.push({timer:timerValue, count:1});
         }); 
-
         
         for(i=0; i<noOfDays; i++){
             fishTimerCount.map(fishTimer=>{fishTimer.timer=fishTimer.timer-1; return fishTimer});
